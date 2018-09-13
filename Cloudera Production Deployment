@@ -1,0 +1,31 @@
+			        Cloudera Production Deployment
+1] Update the server
+2] Disabling THP
+3] Install NTP
+4] Set Swappiness
+5] Setting root reserved Space
+6] Save the instance to an image
+7] Preparing external database for cloudera 
+8] Install MySQL
+9] Move innodb log file
+10] Edit the option file my.cnf to Cloudera recommended settings
+11] Make MySQL Start on boot
+12] Start MySQL
+13] MySQL Secure installation
+14] Install MySQL JDBC driver
+15] Establish your CM Repository
+16] sudo apt-get update
+17] Install CM Server software
+18] Install Oracle JDK
+19] Install the CM Server Pacakages
+20] Setting up the CM Server database
+21] start the CM Server 
+22] Setup custom CDH Repository [cd /opt/cloudera/parcel-repo]
+23] Restart CM Server
+24] Login to CM webUI on 7180
+25] Create database for CDH Services
+26] Add MySQL driver jar
+27] For HUE [nano my.cnf]-[MySQL]-bind-address=0.0.0.0 SQL-mod=STRICT_ALL_TABLES
+28] sudo Service MySQL restart
+29] Install MySQL JDBC jar on hosts where services are running
+30] Now continue installation on CM webUI
